@@ -14,4 +14,4 @@
 
 ## Liga del proyecto
 
-* [Experimento.ipynb](https://github.com/imedinam50/BrandProjects/blob/main/SentimentClassifier/Experimento.ipynb)
+* [Experimento.ipynb](https://github.com/imedinam50/BrandProjects/blob/main/CognitiveComputing/Experimento.ipynb)
