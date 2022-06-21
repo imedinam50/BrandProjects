@@ -2,9 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  
+  <img src="https://www.globallogic.com/de/wp-content/uploads/sites/26/2019/10/Machine-Learning.jpg">
 
   <h3 align="center">Clasificación basada en sentimientos descritos por textos.</h3>
 
