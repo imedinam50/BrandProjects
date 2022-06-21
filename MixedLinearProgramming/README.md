@@ -14,4 +14,4 @@
 
 ## Liga del proyecto
 
-* [Experimento.ipynb](https://github.com/imedinam50/BrandProjects/blob/main/MixedLinearProgramming/Experiment.ipynb)
+* [Experiment.ipynb](https://github.com/imedinam50/BrandProjects/blob/main/MixedLinearProgramming/Experiment.ipynb)
