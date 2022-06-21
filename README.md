@@ -15,10 +15,10 @@
     </tr>
     <tr>
       <td>
-        <p align="center"><strong style="font-size: 150%;">Licenciatura en Matemáticas Aplicadas y Computación</strong></p>
+        <p align="center"><strong>Licenciatura en Matemáticas Aplicadas y Computación</strong></p>
       </td>
       <td>
-        <p align="center"><strong style="font-size: 150%;">Maestría en Ciencia de Datos e Información</strong></p>
+        <p align="center"><strong>Maestría en Ciencia de Datos e Información</strong></p>
       </td>
     </tr>
   </table>
@@ -27,5 +27,8 @@
 
   <p align="center">
     En este repositorio encontrará extractos de proyectos que dan fé de la experiencia que he adquirido durante mi paso académico por los tópicos de Ciencia de Datos e Información.
-  </p>
+  </p>  
+</a>
 </div>
+
+Mas información sobre mi en [LinkedIn](https://www.linkedin.com/in/ismael-medina-mu%C3%B1oz-4539371a/).
