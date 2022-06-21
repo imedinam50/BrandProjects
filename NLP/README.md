@@ -15,3 +15,5 @@
 ## Liga del proyecto
 
 * [Experimento.ipynb](https://github.com/imedinam50/BrandProjects/blob/main/NLP/Experimento.ipynb)
+
+# IMPORTANTE: Si no se muestra el render del notebook podrá entonces descargar el PDF con el proyecto.
