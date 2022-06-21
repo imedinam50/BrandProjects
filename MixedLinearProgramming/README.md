@@ -8,7 +8,7 @@
   <h3 align="center">Optimización de modelos de programación mixta.</h3>
 
   <p align="center">
-    En este experimento se muestra la experiencia adquirida de optimización de modelos de programación misxta aplicados a problemas de asignación. Este es un extracto del proyecto integrador para la Maestría en Ciencia de Datos e Información que estoy cursando.
+    En este experimento se muestra la experiencia adquirida de optimización de modelos de programación mixta aplicados a problemas de asignación. Este es un extracto del proyecto integrador para la Maestría en Ciencia de Datos e Información que estoy cursando.
   </p>
 </div>
 
